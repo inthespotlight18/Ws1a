@@ -1,0 +1,16 @@
+C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe.config
+C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.pdb
+C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.exe
+C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.pdb
+C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.ProjectInstaller.resources
+C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.csproj.GenerateResource.Cache
+C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.csprojResolveAssemblyReference.cache
+C:\Users\Daniil Zlenko\Documents\C#\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe.config
+C:\Users\Daniil Zlenko\Documents\C#\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+C:\Users\Daniil Zlenko\Documents\C#\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.pdb
+C:\Users\Daniil Zlenko\Documents\C#\WindowsService\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.csproj.AssemblyReference.cache
+C:\Users\Daniil Zlenko\Documents\C#\WindowsService\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Daniil Zlenko\Documents\C#\WindowsService\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.csproj.CoreCompileInputs.cache
+C:\Users\Daniil Zlenko\Documents\C#\WindowsService\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.exe
+C:\Users\Daniil Zlenko\Documents\C#\WindowsService\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.pdb

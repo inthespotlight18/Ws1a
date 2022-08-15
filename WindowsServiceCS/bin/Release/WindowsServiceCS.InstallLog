@@ -1,0 +1,17 @@
+﻿Installing assembly 'C:\Users\Daniil Zlenko\Documents\C#\WindowsService\WindowsServiceCS\bin\Release\WindowsServiceCS.exe'.
+Affected parameters are:
+   i = 
+   logtoconsole = 
+   logfile = C:\Users\Daniil Zlenko\Documents\C#\WindowsService\WindowsServiceCS\bin\Release\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\Daniil Zlenko\Documents\C#\WindowsService\WindowsServiceCS\bin\Release\WindowsServiceCS.exe
+   servicename = DZ_WinService
+Installing service DZ_WinService...
+Service DZ_WinService has been successfully installed.
+Creating EventLog source DZ_WinService in log Application...
+Committing assembly 'C:\Users\Daniil Zlenko\Documents\C#\WindowsService\WindowsServiceCS\bin\Release\WindowsServiceCS.exe'.
+Affected parameters are:
+   i = 
+   logtoconsole = 
+   logfile = C:\Users\Daniil Zlenko\Documents\C#\WindowsService\WindowsServiceCS\bin\Release\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\Daniil Zlenko\Documents\C#\WindowsService\WindowsServiceCS\bin\Release\WindowsServiceCS.exe
+   servicename = DZ_WinService

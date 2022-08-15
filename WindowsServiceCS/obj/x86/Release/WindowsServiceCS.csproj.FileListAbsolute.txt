@@ -1,0 +1,8 @@
+C:\Users\Daniil Zlenko\Documents\C#\WindowsService\WindowsServiceCS\bin\Release\WindowsServiceCS.exe.config
+C:\Users\Daniil Zlenko\Documents\C#\WindowsService\WindowsServiceCS\bin\Release\WindowsServiceCS.exe
+C:\Users\Daniil Zlenko\Documents\C#\WindowsService\WindowsServiceCS\bin\Release\WindowsServiceCS.pdb
+C:\Users\Daniil Zlenko\Documents\C#\WindowsService\WindowsServiceCS\obj\x86\Release\WindowsServiceCS.csproj.AssemblyReference.cache
+C:\Users\Daniil Zlenko\Documents\C#\WindowsService\WindowsServiceCS\obj\x86\Release\WindowsServiceCS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Daniil Zlenko\Documents\C#\WindowsService\WindowsServiceCS\obj\x86\Release\WindowsServiceCS.csproj.CoreCompileInputs.cache
+C:\Users\Daniil Zlenko\Documents\C#\WindowsService\WindowsServiceCS\obj\x86\Release\WindowsServiceCS.exe
+C:\Users\Daniil Zlenko\Documents\C#\WindowsService\WindowsServiceCS\obj\x86\Release\WindowsServiceCS.pdb
